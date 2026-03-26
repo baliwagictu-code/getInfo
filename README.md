@@ -31,9 +31,4 @@ This project is a PowerShell script that collects detailed computer information 
 
 ---
 
-## ▶️ How to Use
 
-1. Open PowerShell  
-2. Go to the script folder:
-   ```bash
-   cd path\to\your\script
